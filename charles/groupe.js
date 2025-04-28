@@ -74,7 +74,7 @@ zokou({ nomCom: "link", categorie: 'Group', reaction: "🙋" }, async (dest, zk,
 
   let mess = `hello ${nomAuteurMessage} , here is the group link for ${nomGroupe} \n
 
-Group link :${lien} \n\n©𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬 𝐒𝐜𝐢𝐞𝐧𝐜𝐞`
+Group link :${lien} \n\n©Toxic lover 𝐒𝐜𝐢𝐞𝐧𝐜𝐞`
   repondre(mess)
 
 
