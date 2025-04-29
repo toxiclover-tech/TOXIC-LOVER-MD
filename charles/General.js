@@ -79,7 +79,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
     const { ms, repondre } = commandeOptions;
 
     let supportMessage = `Channel link 👇👇👇\nhttps://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g\n\n` +
-        `Group 👇👇👇\nhttps://chat.whatsapp.com/JxHA39xaMPW449rhnABBz2\n\n` +
+        `Group 👇👇👇\nhttps://https://chat.whatsapp.com/EPFpsugtZd25CDPq04IvaV\n\n` +
         `Instagram 👇👇👇\nhttps://www.instagram.com/bravin126?igsh=MWJvZzBnN3RsYTRsag==\n\n` +
         `@toxic lover`;
 
