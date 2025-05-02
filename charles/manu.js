@@ -50,7 +50,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
         menuMsg += `┣━━━━━━━━━━━━━━━━━━━━━\n`;
     }
 
-    menuMsg += `┗✨ *ᴛᴏxɪᴄ-ʟᴏᴠᴇʀ-ᴍᴅ - ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴛʜᴇ ʙᴇsᴛ!* ✨`;
+    menuMsg += `┗✨ *ᴛᴏxɪᴄ-ʟᴏᴠᴇʀ-ᴍᴅ - developed by toxic lover the best developer * ✨`;
 
     let imageUrl = "https://files.catbox.moe/inrajt.jpg";
 
