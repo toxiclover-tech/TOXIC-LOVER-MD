@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TOXIC-LOVER-MD &label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=TOXIC-LOVER-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 > **Current Bot Version `toxic lover version`**  
