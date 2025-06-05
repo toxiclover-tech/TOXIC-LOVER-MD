@@ -1,31 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=HUNTER%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=JEEPERS CREEPERS-XMD%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
 > **`Updated` HUNTER XMD with Latest Features**
 
 
 <p align="center">
-  <a href="https://github.com/Obedweb/Hunter-Xmd1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Obedweb?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD?tab=followers">
+    <img src="https://img.shields.io/github/followers/toxiclover-tech?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/stargazers">
-    <img src="https://img.shields.io/github/stars/Obedweb/Hunter-Xmd1?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/toxiclover-tech/TOXIC-LOVER-MD?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/fork">
+  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/fork">
     <img src="https://img.shields.io/github/forks/Obedweb/Hunter-Xmd1?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/watchers">
-    <img src="https://img.shields.io/github/watchers/Obedweb/Hunter-Xmd1?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/watchers">
+    <img src="https://img.shields.io/github/watchers/toxiclover-tech/TOXIC-LOVER-MD?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
   </a>
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=HUNTER-XMD-V5.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=JEEPERS CREEPERS-XMD DEVELOPED BY TOXIC LOVER A 19YEARS OLD BOY alt="Typing SVG" /></a>
   </p>
 
 <div align="center">
   <img src="https://files.catbox.moe/mdn0ez.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
-_MUSIC,SESSION,DEPLOYING,CHANNEL AND OWNER WEB_
+_MUSIC,SESSION,DEPLOYING,CHANNEL AND OWNER WEB
 
 <a href='https://hunter-xmd-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
                                                             
