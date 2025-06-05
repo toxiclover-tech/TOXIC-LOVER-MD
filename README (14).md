@@ -66,20 +66,20 @@ FORK AND STAR MY REPO FAM
   
 --- 
   > **⚠️ LINK (01)**
-  <a href='https://sarkar-md-session-generator.koyeb.app/' target="_blank">
+  <a href='https://jeepers-creepers-xmd-session-link-1.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
   > **⚠️ LINK (02)**
-  <a href='https://sarkarmd-session-generator.onrender.com/' target="_blank">
+  <a href='https://jeepers-creepers-xmd-session-link-1.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -87,7 +87,7 @@ FORK AND STAR MY REPO FAM
 </div>
 
 <div align="center">
-  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 ## 📡 DEPLOYMENT OPTIONS
@@ -95,22 +95,22 @@ FORK AND STAR MY REPO FAM
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Bandaheali/Sarkar-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/toxiclover-tech/TOXIC-LOVER-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Bandaheali/Sarkar-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=toxiclover-tech/TOXIC-LOVER-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://render.com/deploy?repo=https://github.com/Bandaheali/Sarkar-MD" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://render.com/deploy?repo=https://github.com/toxiclover-tech/TOXIC-LOVER-MD" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
 ## 🌟 BOT FEATURES
