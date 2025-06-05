@@ -15,21 +15,21 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarkar-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=TOXIC-LOVER-MD &label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
-> **Current Bot Version `3.0.0`**  
+> **Current Bot Version `toxic lover version`**  
 
 ---
 
 ```
-Dont forget to fork & star repo
+FORK AND STAR MY REPO FAM 
 ```
 
 ---
 
 <div align="center">
-  <img src="https://files.catbox.moe/ntygp1.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/s8jg3p.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
