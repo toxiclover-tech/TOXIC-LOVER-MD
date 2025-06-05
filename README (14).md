@@ -124,19 +124,19 @@ FORK AND STAR MY REPO FAM
 ```
 
 <div align="center">
-  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P">
+  <a href="https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 ## ⚠️ WARNING !
@@ -147,18 +147,18 @@ FORK AND STAR MY REPO FAM
 </div>
 
 <div align="center">
-  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/Sarkar-Bandaheali">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sarkar-Bandaheali&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  <a href="https://github.com/toxiclover-tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sar-Bandaheali&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Bandaheali/Sarkar-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ## 👑 SARKAR STATUS
