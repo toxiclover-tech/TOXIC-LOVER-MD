@@ -16,9 +16,8 @@
   </a>
   <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/watchers">
     <img src="https://img.shields.io/github/watchers/toxiclover-tech/TOXIC-LOVER-MD?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=JEEPERS CREEPERS-XMD DEVELOPED BY TOXIC LOVER A 19YEARS OLD BOY" alt="Typing SVG" /></a>
+  </a>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines="JEEPERS CREEPERS-XMD DEVELOPED BY TOXIC LOVER A 19YEARS OLD BOY" alt="Typing SVG" /></a>
   </p>
 
 <div align="center">
