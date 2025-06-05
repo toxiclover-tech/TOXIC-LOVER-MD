@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/toxiclover-tech"/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD "/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD "/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/toxiclover-tech/TOXIC-LOVER-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sarkar-Bandaheali/Sarkar-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
