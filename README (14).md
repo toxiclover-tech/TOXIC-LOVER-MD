@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗦𝗔𝗥𝗞𝗔𝗥-𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">JEEPERS CREEPER-XMD</h1>
 </p>
 
 <p align="center">
