@@ -51,7 +51,7 @@ FORK AND STAR MY REPO FAM
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
-  <a href='https://github.com/Sarkar-Bandaheali/Sarkar-MD/fork' target="_blank">
+  <a href='https://github.com/toxiclover-tech/TOXIC-LOVER-MD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -60,7 +60,7 @@ FORK AND STAR MY REPO FAM
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
-### <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
+### <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
