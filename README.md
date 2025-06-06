@@ -158,7 +158,8 @@
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 SARKAR STATUS
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=JEEPERS;CREEPER-XMD;BOT" alt="Typing SVG" /></a>
+  </p>
 
 ```diff
 + Project Status: Active
