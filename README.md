@@ -62,7 +62,7 @@ FORK AND STAR MY REPO FAM
 
 ### <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD; SESSION+ID+LINKS" alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD; SESSION+ID+LINKS"alt="Animated
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
