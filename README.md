@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=TOXIC-LOVER-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
-> <p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPERS-XMD;LATEST+VERSION+4.0.4"alt="Animated
 
 ---
