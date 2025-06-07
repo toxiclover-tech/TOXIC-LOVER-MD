@@ -54,7 +54,7 @@ ezra({
           externalAdReply: {
             showAdAttribution: true,
             title: "JEEPERS CREEPER-XMD TIKTOK SEARCH",
-            body: "Pambe kwa kingsleybravo381@gmail.com",
+            body: "Pambe kwa TOXIC LOVER TECH",
             sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
             mediaType: 1,
             renderLargerThumbnail: false,
