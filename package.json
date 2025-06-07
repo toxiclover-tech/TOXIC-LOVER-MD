@@ -2,7 +2,7 @@
 
  {
 
-  "name": "JEEPERS CREEPER-XMD",
+  "name": "Toxic lover tech",
 
   "version": "1.0.0",
 
@@ -38,11 +38,11 @@
 
     "whatsapp-bot",
 
-    "kingsleybravo381@gmail.com"
+    "Toxic lover tech"
 
    ],
 
-  "author": "kingsleybravo381@gmail.com",
+  "author": "toxic lover tech",
 
 "license": "ISC",
 
@@ -64,8 +64,7 @@
 
     "@types/node": "^18.0.6",
 
-   "@fredietech/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
-    "@whiskeysockets/baileys": "npm:asitha-new-v99",
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
 
     "ytdl-core": "npm:@distube/ytdl-core",
 
@@ -313,4 +312,4 @@
 
   }
 
-  }
+ }
