@@ -1,6 +1,5 @@
-<p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">JEEPERS CREEPER-XMD</h1>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=JEEPERS%20XCREEPER-XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=BEST+WHATSAPP+BOT;DEVELOPED+BY;TOXIC+LOVER+CYBER+TECH;SUPPORT;KENYA+ELDORET;19YEARS+OLD+BOY;LUYHA+FINEST;REMEMBER+TO;FORK+&+STAR+THE+REPO"alt="Animated Typing SVG" />
