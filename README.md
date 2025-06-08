@@ -152,8 +152,7 @@
 <div align="center">
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
-  
-  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD"
+    <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD"
     <img src="https://github-readme-stats.vercel.app/api?username=TOXIC LOVER TECH&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
