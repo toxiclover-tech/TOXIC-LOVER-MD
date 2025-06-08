@@ -141,7 +141,7 @@
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=WARNING;BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=WARNING;" alt="Typing SVG" /></a>
   </p>
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
@@ -153,10 +153,7 @@
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=PROTECT;ARCHITECTS" alt="Typing SVG" /></a>
-  </p>
-<div align="center">
-  <a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=PROTECT;ARCHITECTS" alt="Typing SVG" /><a href="https://github.com/toxiclover-tech/TOXIC-LOVER-MD"
     <img src="https://github-readme-stats.vercel.app/api?username=TOXIC LOVER TECH&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
