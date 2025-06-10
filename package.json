@@ -64,7 +64,9 @@
 
     "@types/node": "^18.0.6",
 
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
+    "@fredietech/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
+
+    "@whiskeysockets/baileys": "npm:asitha-new-v99",
 
     "ytdl-core": "npm:@distube/ytdl-core",
 
