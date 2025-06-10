@@ -1,4 +1,3 @@
-
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -10,8 +9,9 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/toxiclover-tech/TOXIC-LOVER-MD /root/lucky_bot
-WORKDIR /root/lucky_Bot/
+RUN  git clone https://github.com/Fred1e/LUCKY_MD  /root/Lucky_BOt
+WORKDIR /root/Lucky_Bot/
+
 
 
 COPY package.json .
@@ -22,4 +22,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "davincs"]
+CMD ["node", "control.js"]
