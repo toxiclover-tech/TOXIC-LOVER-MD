@@ -56,7 +56,7 @@ ezra(
       ms, arg, repondre
     } = commandOptions;
     // data
-    const tumbUrl = 'https://files.catbox.moe/tq1dtv.jpg';
+    const tumbUrl = 'https://files.catbox.moe/l8t446.mp4';
     const used = process.memoryUsage();
     const cpus = os.cpus().map(cpu => {
       cpu.total = Object.keys(cpu.times).reduce((last, type) => last + cpu.times[type], 0);
@@ -131,7 +131,7 @@ ezra(
     const {
       ms
     } = commandOptions;
-    const tumbUrl = 'https://files.catbox.moe/6ka3bs.jpg';
+    const tumbUrl = 'https://files.catbox.moe/l8t446.mp4';
     const runtimetext = `🚨 *Bot Have Been Running For ${runtime(process.uptime())}* 🚨`;
     zk.sendMessage(dest, {
       text: runtimetext,
