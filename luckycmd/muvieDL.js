@@ -3,7 +3,7 @@ const { getJson } = require("../fredi/utils");
 
 ezra({
   nomCom: "movie",
-  categorie: "DAVINCS_MD-search",
+  categorie: "JEEPERS CREEPER-XMD-search",
   reaction: "🎥"
 }, async (origineMessage, zk, commandeOptions) => {
   const { repondre, arg } = commandeOptions;
