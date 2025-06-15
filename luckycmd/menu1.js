@@ -40,7 +40,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
 ┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : JEEPERS CREEPER-XMD TECH
 ┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : Allan
+┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : TOXIC LOVER DEVELOPER https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 ┃⊛└────••••────➻
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
