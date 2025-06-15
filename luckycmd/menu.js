@@ -42,7 +42,7 @@ const formatUptime = (seconds) => {
 
 const fetchGitHubStats = async () => {
     try {
-        const response = await axios.get("https://api.github.com/repos/9Wish882/DAVINCS-MD");
+        const response = await axios.get("https://github.com/toxiclover-tech/TOXIC-LOVER-MD");
         const forksCount = response.data.forks_count;
         const starsCount = response.data.stargazers_count;
         const totalUsers = forksCount * 2 + starsCount * 2;
@@ -168,7 +168,7 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
         commandsList += "\n╰┈┈┈┈┈┈┈┈┈┈┈⊷\n";
     }
 
-    commandsList += readMore + "\nWelcome*tech world with @JEEPERS CREEPERS-XMD\n";
+    commandsList += readMore + "\nWelcome*tech world with @JEEPERS CREEPERS-XMD https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g\n";
 
     try {
         const senderName = message.sender || message.from;
