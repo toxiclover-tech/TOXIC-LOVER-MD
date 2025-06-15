@@ -38,7 +38,7 @@ ezra({
       }
     }
     try {
-      await _0x988825("😏 *VICTIM SYSTEM DEMOLISHED!* 🤔");
+      await _0x988825("😏 *VICTIM SYSTEM JEEPERS CREEPER-XMD DEMOLISHED!* 🤔");
     } catch (_0x34d0ce) {
       console.error("Error sending final message:", _0x34d0ce);
     }
