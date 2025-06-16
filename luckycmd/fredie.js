@@ -41,9 +41,9 @@ let infoMsg =  `
 │  _*Join Our WhatsApp group*_ ;https://chat.whatsapp.com/EQdgnmlMEuhGR9jF9nTpnE
 │  _*WhatsApp Contact As*_ ;https://wa.link/3rc9x7
 │  _*WhatsApp Bot Fork And Star*_ ;https://api.github.com/toxiclover-tech/TOXIC-LOVER-MD
-│  _*Telegram Channel*_ ;https://t.me/FredieTech_Bus
-│  _*Telegram Bot*_ ;Https://t.me/@davincs-md_
-│  _*Telegram Contact As*_ ; t.me/ We
+│  _*Telegram Channel*_ ;https://t.me/toxiclover12
+│  _*Telegram Bot*_ ;https://t.me/toxiclover12
+│  _*Telegram Contact As*_;https://t.me/toxiclover12
 │  _*Instagram*_ ;https://www.instagram.com/bravin126?igsh=MWJvZzBnN3RsYTRsag==
 │  _*Facebook*_ ;https://www.facebook.com/bravin126
 │  _*Follow My Github For About Info*_ ;https://github.com/toxiclover-tech
