@@ -644,4 +644,29 @@ ezra({
       } else {
         if (_0x145c89 === "off") {
           if (_0x4ffabd) {
-            await ajouterOuMettreAJourJid(_0x18daac, "non
+            await ajouterOuMettreAJourJid(_0x18daac, "non");
+           _0x71952("The antilink-all feature has been successfully deactivated.");
+          } else {
+            _0x71952("Antilink-all is not activated for this group.");
+          }
+        } else {
+          if (_0x145c89 === 'action') {
+            const _0x38775d = _0x261fa8.toLowerCase();
+            if (["remove", "warn", "delete"].includes(_0x38775d)) {
+              await mettreAJourAction(_0x18daac, _0x38775d);
+              _0x71952("The anti-link action has been updated to " + _0x38775d + '.');
+            } else {
+              _0x71952("The only actions available are `warn`, `remove`, and `delete`.");
+            }
+          } else {
+            _0x71952("Type `antilink-all on` to activate the antilink-all feature\nor `antilink-all off` to deactivate the antilink-all feature\nor `antilink-all action/remove` to directly remove the link without notice\nor `antilink-all action/warn` to give warnings\nor `antilink-all action/delete` to remove the link without any sanctions\n\nPlease note that by default, the antilink-all feature is set to delete.\n\n*KEEP USING DAVINCS_MD*");
+          }
+        }
+      }
+    } catch (_0x5483c0) {
+      _0x71952("Error: " + _0x5483c0.message);
+    }
+  } else {
+    _0x71952("You are not allowed to use this command.");
+  }
+});
