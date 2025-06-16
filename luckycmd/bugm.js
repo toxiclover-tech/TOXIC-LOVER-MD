@@ -34,20 +34,20 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-━━━━✺ *JEEPERS CREEPER-XMD ℂℝ𝔸𝕊ℍ𝔼ℝ* ✺━━━━
+━━━━✺ *JEEPERS CREEPER-XMD BUG🐛 MENU* ✺━━━━
 ╭─────────────────────❍ 
 │☆ bug
 │☆ crash
 │☆ loccrash
 │☆ amountbug <amount>
-│☆ crashbug 255XXXX
-│☆ pmbug 255XXXX
-│☆ delaybug 255XXXX
+│☆ crashbug 2541726XXXX
+│☆ pmbug 25471726XXXX
+│☆ delaybug 25471726XXX
 │☆ trollybug 255XXXX
 │☆ docubug 254XXXX
-│☆ unlimitedbug 255XXXX
-│☆ bombug 255XXXX
-│☆ lagbug 255XXXX
+│☆ unlimitedbug 25471726XXXX
+│☆ bombug 25471726XXXX
+│☆ lagbug 25471726XXXX
 │☆ gcbug <grouplink>
 │☆ delaygcbug <grouplink>
 │☆ trollygcbug <grouplink>
@@ -67,9 +67,10 @@ let menuMsg = `
 
 ╭──────────────────••
 ┊ JEEPERS CREEPER-XMD 
+[https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g]
 ╰──────────────────••
 
-> ©Toxic lover#tech projects
+> ©Toxic lover/jeepers creeper-xmd #tech projects
 
  `;
 
