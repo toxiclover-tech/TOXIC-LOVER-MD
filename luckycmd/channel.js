@@ -7,7 +7,7 @@ ezra({ nomCom: "channel", reaction: "💐", nomFichier: __filename }, async (des
     let z = 'Salut je m\'appelle JEEPERS CREEPER-XMD* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
     let d = ' developpé par *toxic lover*';
     let varmess = z + d;
-    var lien = 'https://files.catbox.moe/wa4jj9.jpg';  // Remplacez cet URL par le lien que vous souhaitez envoyer
+    var lien = 'https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g';  // Remplacez cet URL par le lien que vous souhaitez envoyer
     await zk.sendMessage(dest, { text: varmess + "\n" + lien });
 });
 
@@ -26,6 +26,6 @@ async function  execute  (origineMessage,zok) {
    let z ='Salut je m\'appelle *JEEPERS CREEPER-XMD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
       let d =' developpé par *Fredi*'
       let varmess=z+d
-      var img='https://files.catbox.moe/wa4jj9.jpg'
+      var img='https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
