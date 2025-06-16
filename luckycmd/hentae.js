@@ -702,4 +702,361 @@ ezra({
       await zk.sendMessage(origineMessage, {
         image: { url: imageUrl },
         caption: `*Downloaded by JEEPERS CREEPER-XMD${conf.BOT}*`,
-     
+        contextInfo: {
+          externalAdReply: {
+            title: "Image Search Result",
+            body: `Here's a great image related to: waifu`,
+            thumbnailUrl: imageUrl,
+            sourceUrl: conf.GURL,
+            mediaType: 1,
+            showAdAttribution: true
+          }
+        }
+      }, { quoted: ms });
+    }
+  } catch (error) {
+    repondre('Error retrieving data: ' + error.message);
+  }
+});
+ezra({
+  'nomCom': "lulcaty",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide some text.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/lulcat?text=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by DAINCS-MD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Sadcat Meme Command
+ezra({
+  'nomCom': "sadcaty",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide some text.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/sadcat?text=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by DAVINCS-MD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Nokia Meme Command
+ezra({
+  'nomCom': "nokiah",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide some text.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/nokia?image=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by DAVINCS-MD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Unforgivable Meme Command
+ezra({
+  'nomCom': "unforgivab",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide some text.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/unforgivable?text=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by JEEPERS CREEPER-XMD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Pooh Meme Command
+ezra({
+  'nomCom': "poohh",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide some text.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/pooh?text1=&text2=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by JEEPERS CREEPER-XMD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Oogway Meme Command
+ezra({
+  'nomCom': "ohogway",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide a quote.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/oogway?text=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by JEEPERS CREEPER-XMD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Biden Meme Command
+ezra({
+  'nomCom': "jbiden",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+ }, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide some text.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/biden?text=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by DAVINCS-MD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Drip Meme Command
+ezra({
+  'nomCom': "hdrip",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide an image URL.");
+    }
+    const imageUrl = `https://api.popcat.xyz/drip?image=${arg.join(" ")}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by JEEPERS CREEPER-XMD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Clown Meme Command
+ezra({
+  'nomCom': "clowns",
+  'reaction': '📡',
+  'categorie': 'mod-image'
+}, async (user, message, context) => {
+  const { repondre: sendMessage, arg, ms } = context;
+  try {
+    if (!arg || arg.length === 0) {
+      return sendMessage("Provide some text.");
+    }
+    const text = arg.join(" ");
+    const imageUrl = `https://api.popcat.xyz/clown?text=${text}`;
+    message.sendMessage(user, {
+      'image': { 'url': imageUrl },
+      'caption': "*powered by JEEPERS CREEPER-XMD*"
+    }, { 'quoted': ms });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+
+// Image generation command
+ezra({
+  'nomCom': "imag-generate",
+  'reaction': '📡',
+  'category': 'mod-image'
+}, async (user, message, context) => {
+  const { respond: sendMessage, args, messageInstance } = context;
+  try {
+    if (!args || args.length === 0) {
+      return sendMessage("Please enter the necessary information to generate the image.");
+    }
+    const prompt = args.join(" ");
+    const generatedImageUrl = "https://www.samirxpikachu.run.place/marjia?prompt=" + prompt;
+    message.sendMessage(user, {
+      'image': {
+        'url': generatedImageUrl
+      },
+      'caption': "*powered by DAVINCS-MD*"
+    }, {
+      'quoted': messageInstance
+    });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Image text extraction command
+ezra({
+  'nomCom': "toextract",
+  'reaction': '📡',
+  'category': 'mod-image'
+}, async (user, message, context) => {
+  const { respond: sendMessage, args, messageInstance } = context;
+  try {
+    if (!args || args.length === 0) {
+      return sendMessage("Please insert the image URL and JEEPERS CREEPERS-XMD will extract the text for you.");
+    }
+    const imageUrl = args.join(" ");
+    const extractedTextUrl = "https://www.samirxpikachu.run.place/extract/text?url=" + imageUrl;
+    message.sendMessage(user, {
+      'image': {
+        'url': extractedTextUrl
+      },
+      'caption': "*powered by JEEPERS CREEPER-XMD TECH*"
+    }, {
+      'quoted': messageInstance
+    });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Bing image generation command
+ezra({
+  'nomCom': "flux-img",
+  'reaction': '📡',
+  'category': 'mod-image'
+}, async (user, message, context) => {
+  const { respond: sendMessage, args, messageInstance } = context;
+  try {
+    if (!args || args.length === 0) {
+      return sendMessage("Please describe your image and JEEPERS CREEPERS-XMD will generate it.");
+    }
+    const prompt = args.join(" ");
+    const generatedImageUrl = "https://www.samirxpikachu.run.place/flux?prompt=" + prompt;
+    message.sendMessage(user, {
+      'image': {
+        'url': generatedImageUrl
+      },
+      'caption': "*powered by DAVINCS-MD*"
+    }, {
+      'quoted': messageInstance
+    });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+
+
+// Ilama image generation command
+ezra({
+  'nomCom': "mi",
+  'reaction': '📡',
+  'category': 'mod-image'
+}, async (user, message, context) => {
+  const { respond: sendMessage, args, messageInstance } = context;
+  try {
+    if (!args || args.length === 0) {
+      return sendMessage("Please describe your image and DAVINCS-MD will generate it.");
+    }
+    const prompt = args.join(" ");
+    const generatedImageUrl = "https://www.samirxpikachu.run.place/multi/Ml?prompt=" + prompt;
+    message.sendMessage(user, {
+      'image': {
+        'url': generatedImageUrl
+      },
+      'caption': "*powered by DAVINcs-MD*"
+    }, {
+      'quoted': messageInstance
+    });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
+
+// Beautify image command
+ezra({
+  'nomCom': "dbeautify",
+  'reaction': '📡',
+  'category': 'mod-image'
+}, async (user, message, context) => {
+  const { respond: sendMessage, args, messageInstance } = context;
+  try {
+    if (!args || args.length === 0) {
+      return sendMessage("Kindly enter a valid image URL to beautify your image.");
+    }
+    const imageUrl = args.join(" ");
+    const beautifiedImageUrl = "https://samirxpikachuio.onrender.com/remacne?url=" + imageUrl;
+    message.sendMessage(user, {
+      'image': {
+        'url': beautifiedImageUrl
+      },
+      'caption': "*powered by JEEPERS CREEPER-XMD*"
+    }, {
+      'quoted': messageInstance
+    });
+  } catch (error) {
+    console.error("Error:", error.message || "An error occurred");
+    sendMessage("Oops, an error occurred while processing your request");
+  }
+});
