@@ -149,6 +149,7 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
 ┣◆ *ᴛᴏᴛᴀʟ ᴜsᴇʀs:* ${formattedTotalUsers} users
 ┣◆ *ʀᴀᴍ:* ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┣◆ *ᴜᴘᴛɪᴍᴇ:* ${formatUptime(process.uptime())}
+┣◆ *CHANNEL:*  https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 ╰═══┈⊷
 
 *${randomQuote}*
@@ -168,7 +169,7 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
         commandsList += "\n╰┈┈┈┈┈┈┈┈┈┈┈⊷\n";
     }
 
-    commandsList += readMore + "\nWelcome*tech world with @JEEPERS CREEPERS-XMD https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g\n";
+    commandsList += readMore + "\nWelcome*tech world with @JEEPERS CREEPERS-XMD TECH\n";
 
     try {
         const senderName = message.sender || message.from;
