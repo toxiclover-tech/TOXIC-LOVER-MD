@@ -300,6 +300,16 @@
 
     },
 
+    "CHAT_BOT": {
+
+      "description": " If you want bot to chat an answer messages in dem's put 'yes' to activate and 'no' to deactivate.",
+
+      "value": "no",
+
+      "required": false
+
+    },
+
     "AUTO_REACTION": {
 
       "description": "Set 'yes' to enable bot reactions to messages in private chats",
