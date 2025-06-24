@@ -145,7 +145,8 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
 ┣◆ *ᴄᴏᴍᴍᴀɴᴅꜱ:* ${commands.length} 
 ┣◆ *ᴅᴀᴛᴇ:* ${formattedDate}
 ┣◆ *ᴍᴏᴅᴇ:* ${mode}
-┣◆ *ᴛɪᴍᴇ ᴢᴏɴᴇ:* KENYA/ELDORET 
+┣◆ *ᴛɪᴍᴇ ᴢᴏɴᴇ:*Africa/kenya
+┣◆ *DEV:*Toxic lover/Jeepers creeper xmd tech
 ┣◆ *ᴛᴏᴛᴀʟ ᴜsᴇʀs:* ${formattedTotalUsers} users
 ┣◆ *ʀᴀᴍ:* ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┣◆ *ᴜᴘᴛɪᴍᴇ:* ${formatUptime(process.uptime())}
