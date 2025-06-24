@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  <img src="https://files.catbox.moe/2lcvr5.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/xdgd2j.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
