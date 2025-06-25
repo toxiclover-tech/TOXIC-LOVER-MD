@@ -193,3 +193,16 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
         respond("🥵🥵 Menu error: " + error);
     }
 });
+module.exports = {
+  
+  getContextInfo: (ms) => {
+    return {
+      mentionedJid: [ms.sender || ms.from], 
+      forwardingScore: 999,
+      isForwarded: true, 
+      forwardedNewsletterMessageInfo: {
+        newsletterJid: '120363366284524544@newsletter', 
+        serverMessageId: 143 
+      }
+    };
+  },
