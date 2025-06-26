@@ -53,7 +53,7 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/5x1y2z.png';
+    const img = 'https://files.catbox.moe/c1vcsq.jpg';
     const imgs = 'https://files.catbox.moe/o8b33m.jpg';
 
     const infoMsg = `
