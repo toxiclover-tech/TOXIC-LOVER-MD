@@ -27,7 +27,7 @@ const toFancyLowercaseFont = (text) => {
 ezra({ 
     nomCom: "menu", 
     categorie: "jeeper creeper-Menu", 
-    reaction: "☢️", 
+    reaction: "😈", 
     nomFichier: __filename 
 }, async (dest, zk, commandeOptions) => {
     const { repondre, prefixe, nomAuteurMessage } = commandeOptions;
@@ -58,10 +58,11 @@ ezra({
 
     const infoMsg = `
 ╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  ☢️ JEEPERS CREEPER-XMD☢️*
+*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🍷 JEEPERS CREEPER-XMD🍷*
 *┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
 *┋* *ᴍᴏᴅᴇ :* ${mode}
 *┋* *ᴅᴀᴛᴇ  :* ${date}
+*┋* *MADE :IN KENYA/ELDORET 
 *┋* *ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
 *┋* *ᴏᴡɴᴇʀ ɪs : JEEPERS CREEPER*
 *┋* *ᴘʟᴜɢɪɴs ᴄᴍᴅ :* ${cm.length}
@@ -82,11 +83,11 @@ ezra({
     }
     
     menuMsg += `
-> @made by FredieTech 2025\n`;
+> @made by toxic lover 2025\n`;
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/uw4l17.jpeg" },
+            image: { url: "https://files.catbox.moe/ho8d5w.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
@@ -97,7 +98,7 @@ ezra({
                 },
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: "☢️JEEPERS CREEPER-XMD☢️",
+                    title: "🍷JEEPERS CREEPER-XMD🍷",
                     body: "🔑🗝️ Command List",
                     thumbnailUrl: "https://files.catbox.moe/o8b33m.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
