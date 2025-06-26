@@ -25,7 +25,7 @@ ezra({
   try {
     await _0x36286d.sendMessage(_0x72e714, {
       'audio': {
-        'url': "https://files.catbox.moe/os7ow8.mp3"
+        'url': "https://files.catbox.moe/6xmof1.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
@@ -93,7 +93,7 @@ ezra({
     });
     await _0x16c249.sendMessage(_0x1e08fe, {
       'audio': {
-        'url': "https://files.catbox.moe/os7ow8.mp3"
+        'url': "https://files.catbox.moe/6xmof1.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
