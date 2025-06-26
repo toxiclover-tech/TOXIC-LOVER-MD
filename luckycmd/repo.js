@@ -1,96 +1,114 @@
+'use strict';
+
+const {
+  ezra
+} = require("../fredi/ezra");
 const axios = require("axios");
-const { ezra } = require(__dirname + "/../fredi/ezra");
-const { format } = require(__dirname + "/../fredi/mesfonctions");
-const os = require('os');
 const moment = require("moment-timezone");
-const conf = require(__dirname + "/../set");
-
-const readMore = String.fromCharCode(8206).repeat(4001);
-
-const formatUptime = (seconds) => {
-    seconds = Number(seconds);
-    const days = Math.floor(seconds / 86400);
-    const hours = Math.floor((seconds % 86400) / 3600);
-    const minutes = Math.floor((seconds % 3600) / 60);
-    const remainingSeconds = Math.floor(seconds % 60);
-
-    return [
-        days > 0 ? `${days} ${days === 1 ? "day" : "days"}` : '',
-        hours > 0 ? `${hours} ${hours === 1 ? "hour" : "hours"}` : '',
-        minutes > 0 ? `${minutes} ${minutes === 1 ? "minute" : "minutes"}` : '',
-        remainingSeconds > 0 ? `${remainingSeconds} ${remainingSeconds === 1 ? "second" : "seconds"}` : ''
-    ].filter(Boolean).join(', ');
-};
-
-// Fetch GitHub stats and multiply by 10
-const fetchGitHubStats = async () => {
-    try {
-        const response = await axios.get("https://github.com/toxiclover-tech/TOXIC-LOVER-MD");
-        const forksCount = response.data.forks_count * 11; 
-        const starsCount = response.data.stargazers_count * 11; 
-        const totalUsers = forksCount + starsCount; 
-        return { forks: forksCount, stars: starsCount, totalUsers };
-    } catch (error) {
-        console.error("Error fetching GitHub stats:", error);
-        return { forks: 0, stars: 0, totalUsers: 0 };
-    }
-};
-
+const set = require(__dirname + "/../set");
+moment.tz.setDefault('' + set.TIMEZONE);
 ezra({
-    nomCom: "repo",
-    aliases: ["script", "cs"],
-    reaction: '🚀',
-    nomFichier: __filename
-}, async (command, reply, context) => {
-    const { repondre, auteurMessage, nomAuteurMessage } = context;
-
-    try {
-        const response = await axios.get("https://github.com/toxiclover-tech/TOXIC-LOVER-MD");
-        const repoData = response.data;
-
-        if (repoData) {
-            
-            const repoInfo = {
-                stars: repoData.stargazers_count * 11,
-                forks: repoData.forks_count * 11,
-                updated: repoData.updated_at,
-                owner: repoData.owner.login
-            };
-
-            const releaseDate = new Date(repoData.created_at).toLocaleDateString('en-GB');
-            const message = `
-            *Hello 👋 my friend ${nomAuteurMessage}*
-
-            *This is ${conf.BOT}*
-            the best whatsapp bot in this world developed by ${conf.OWNER_NAME}. Fork and give a star 🌟 to my repo!
-     ╭═════┈┈┈═══════┈┈
-     ┣⁠✞  *Stars:* - ${repoInfo.stars}
-     ┣⁠✞  *Forks:* - ${repoInfo.forks}
-     ┣⁠✞  *Release date:* - ${releaseDate}
-     ┣⁠✞  *Repo:* - ${repoData.html_url}
-     ┣⁠✞  *Owner:*   *${conf.OWNER_NAME}*
-     ╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┈`;
-
-            await reply.sendMessage(command, {
-                text: message,
-                contextInfo: {
-                    mentionedJid: [auteurMessage],
-                    externalAdReply: {
-                        title: conf.BOT,
-                        body: conf.OWNER_NAME,
-                        thumbnailUrl: conf.URL,
-                        sourceUrl: conf.GURL, // Fixed typo from 'cof.GURL' to 'conf.GURL'
-                        mediaType: 1,
-                        renderLargerThumbnail: true
-                    }
-                }
-            });
-        } else {
-            console.log("Could not fetch data");
-            repondre("An error occurred while fetching the repository data.");
+  'nomCom': "ping",
+  'categorie': "General-Fredi"
+}, async (_0x72e714, _0x36286d, _0x2f6f18) => {
+  let {
+    ms: _0x2bb02d
+  } = _0x2f6f18;
+  const {
+    time: _0x4e1d22,
+    date: _0x1b450d
+  } = {
+    'time': moment().format("HH:mm:ss"),
+    'date': moment().format("DD/MM/YYYY")
+  };
+  const _0x21013e = Math.floor(Math.random() * 100) + 1;
+  try {
+    await _0x36286d.sendMessage(_0x72e714, {
+      'audio': {
+        'url': "https://files.catbox.moe/se9mii.mp3"
+      },
+      'mimetype': "audio/mp4",
+      'ptt': true,
+      'contextInfo': {
+        'isForwarded': true,
+        'forwardedNewsletterMessageInfo': {
+          'newsletterJid': "120363366284524544@newsletter",
+          'newsletterName': "toxic lover",
+          'serverMessageId': 0x8f
+        },
+        'forwardingScore': 0x3e7,
+        'externalAdReply': {
+          'title': "toxic lover",
+          'body': "⚫ Pong: " + _0x21013e + "ms\n📅 *Date:* " + _0x1b450d + "\n⏰ *Time:* " + _0x4e1d22,
+          'thumbnailUrl': "https://files.catbox.moe/uw4l17.jpeg",
+          'mediaType': 0x1,
+          'renderSmallThumbnail': true
         }
-    } catch (error) {
-        console.error("Error fetching repository data:", error);
-        repondre("An error occurred while fetching the repository data.");
-    }
+      }
+    }, {
+      'quoted': _0x2bb02d
+    });
+  } catch (_0x5c09a2) {
+    console.log("❌ Ping Command Error: " + _0x5c09a2);
+    repondre("❌ Error: " + _0x5c09a2);
+  }
+});
+ezra({
+  'nomCom': "repo",
+  'categorie': "General-Fredi",
+  'reaction': '🫧',
+  'nomFichier': __filename
+}, async (_0x1e08fe, _0x16c249, _0x544c94) => {
+  const {
+    pushname: _0x48eea6,
+    repondre: _0x1843be
+  } = _0x544c94;
+  try {
+    const _0x273ae5 = await axios.get("https://github.com/toxiclover-tech/TOXIC-LOVER-MD");
+    const _0x540861 = _0x273ae5.data;
+    const _0x5abda2 = moment(_0x540861.updated_at).format("DD/MM/YYYY");
+    const _0xb0dc07 = "\nThis is\n\n> JEEPERS CREEPER-XMD\n\n*Don't forget fork and star repo*\n\n> *sᴛᴀʀs:* " + _0x540861.stargazers_count + "\n> *Forks:* " + _0x540861.forks_count + "\n> *Watchera:* " + _0x540861.watchers + "\n> *Updated:* " + _0x5abda2 + "\n> *Repo Link:*" + _0x540861.html_url + "*\n\n®";
+    await _0x16c249.sendMessage(_0x1e08fe, {
+      'image': {
+        'url': "https://files.catbox.moe/uw4l17.jpeg"
+      },
+      'caption': _0xb0dc07,
+      'contextInfo': {
+        'isForwarded': true,
+        'forwardedNewsletterMessageInfo': {
+          'newsletterJid': "120363366284524544@newsletter",
+          'newsletterName': "toxic lover",
+          'serverMessageId': 0x8f
+        },
+        'forwardingScore': 0x3e7,
+        'externalAdReply': {
+          'title': "JEEPERS CREEPER-XMD",
+          'body': "🫧 repo link request 🫧",
+          'thumbnailUrl': "https://files.catbox.moe/3o37c5.jpeg",
+          'mediaType': 0x1,
+          'mediaUrl': '',
+          'sourceUrl': ''
+        }
+      }
+    });
+    await _0x16c249.sendMessage(_0x1e08fe, {
+      'audio': {
+        'url': "https://files.catbox.moe/j3sp1o.mp3"
+      },
+      'mimetype': "audio/mp4",
+      'ptt': true,
+      'caption': "*🫧 JEEPERS CREEPER-XMD repo song 🫧",
+      'contextInfo': {
+        'isForwarded': true,
+        'forwardedNewsletterMessageInfo': {
+          'newsletterJid': "120363366284524544@newsletter",
+          'newsletterName': "toxic lover",
+          'serverMessageId': -1
+        }
+      }
+    });
+  } catch (_0x24b701) {
+    console.log("Error fetching data:", error);
+    _0x1843be("❌ Error fetching repository data. Please try again later.");
+  }
 });
