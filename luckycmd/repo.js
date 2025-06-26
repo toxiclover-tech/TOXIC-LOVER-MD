@@ -25,7 +25,7 @@ ezra({
   try {
     await _0x36286d.sendMessage(_0x72e714, {
       'audio': {
-        'url': "https://files.catbox.moe/se9mii.mp3"
+        'url': "https://files.catbox.moe/os7ow8.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
@@ -40,7 +40,7 @@ ezra({
         'externalAdReply': {
           'title': "toxic lover",
           'body': "⚫ Pong: " + _0x21013e + "ms\n📅 *Date:* " + _0x1b450d + "\n⏰ *Time:* " + _0x4e1d22,
-          'thumbnailUrl': "https://files.catbox.moe/uw4l17.jpeg",
+          'thumbnailUrl': "https://files.catbox.moe/a4q16k.jpg",
           'mediaType': 0x1,
           'renderSmallThumbnail': true
         }
@@ -70,7 +70,7 @@ ezra({
     const _0xb0dc07 = "\nThis is\n\n> JEEPERS CREEPER-XMD\n\n*Don't forget fork and star repo*\n\n> *sᴛᴀʀs:* " + _0x540861.stargazers_count + "\n> *Forks:* " + _0x540861.forks_count + "\n> *Watchera:* " + _0x540861.watchers + "\n> *Updated:* " + _0x5abda2 + "\n> *Repo Link:*" + _0x540861.html_url + "*\n\n®";
     await _0x16c249.sendMessage(_0x1e08fe, {
       'image': {
-        'url': "https://files.catbox.moe/uw4l17.jpeg"
+        'url': "https://files.catbox.moe/a4q16k.jpg"
       },
       'caption': _0xb0dc07,
       'contextInfo': {
@@ -84,7 +84,7 @@ ezra({
         'externalAdReply': {
           'title': "JEEPERS CREEPER-XMD",
           'body': "🫧 repo link request 🫧",
-          'thumbnailUrl': "https://files.catbox.moe/3o37c5.jpeg",
+          'thumbnailUrl': "https://files.catbox.moe/a4q16k.jpg",
           'mediaType': 0x1,
           'mediaUrl': '',
           'sourceUrl': ''
@@ -93,7 +93,7 @@ ezra({
     });
     await _0x16c249.sendMessage(_0x1e08fe, {
       'audio': {
-        'url': "https://files.catbox.moe/j3sp1o.mp3"
+        'url': "https://files.catbox.moe/os7ow8.mp3"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
