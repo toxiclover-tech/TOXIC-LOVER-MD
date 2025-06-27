@@ -138,6 +138,12 @@
 </div>
 
 <div align="center">
+  <a href="https://gravatar.com/kingstress45
+    <img src="https://img.shields.io/badge/developer-%20web-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
