@@ -174,8 +174,7 @@
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
-[![TOXICLOVER TECH](https://github.com/toxiclover-tech/TOXIC-LOVER-MD.svg)](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)
-
+[![FREDIEZRA TECH](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/lucky.svg)](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
 
 <p align="center">
   <a href="https://github.com/toxiclover-tech">
