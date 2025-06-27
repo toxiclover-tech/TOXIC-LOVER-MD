@@ -174,11 +174,11 @@
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
-[![JEEPERS-CREEPER-XMD TECH](https://github.com/toxiclover-tech/TOXIC-LOVER-MD.svg)](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)
+[![TOXICLOVER TECH](https://github.com/toxiclover-tech/TOXIC-LOVER-MD.svg)](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)
 
 
 <p align="center">
-  <a href="https://github.com/mr-X-force">
+  <a href="https://github.com/toxiclover-tech">
     <img title="Developer" src="https://img.shields.io/badge/Author-JEEPERS%20CREEPERS%20XMD-FF00FF.svg?style=big-square&logo=github" />
   </a>
 </p>[
