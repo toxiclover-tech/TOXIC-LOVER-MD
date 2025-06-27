@@ -139,7 +139,7 @@
 
 <div align="center">
   <a href="https://gravatar.com/kingstress45
-    <img src="https://img.shields.io/badge/developer-%20web-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/message-%20web-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
 
