@@ -174,7 +174,7 @@
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
-[![JEEPERS CREEPER-XMD TECH](https://github.com/toxiclover-tech/TOXIC-LOVER-MD.svg)](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)
+[![JEEPERS-CREEPER-XMD TECH](https://github.com/toxiclover-tech/TOXIC-LOVER-MD.svg)](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)
 
 
 <p align="center">
