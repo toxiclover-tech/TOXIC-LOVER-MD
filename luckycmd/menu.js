@@ -53,41 +53,43 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/c1vcsq.jpg';
-    const imgs = 'https://files.catbox.moe/o8b33m.jpg';
+    const img = 'https://files.catbox.moe/ly0ht3.jpg';
+    const imgs = 'https://files.catbox.moe/pte48f.jpg';
 
     const infoMsg = `
-╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🍷 JEEPERS CREEPER-XMD🍷*
-*┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
-*┋* *ᴍᴏᴅᴇ :* ${mode}
-*┋* *ᴅᴀᴛᴇ  :* ${date}
-*┋* *MADE :IN KENYA/ELDORET 
-*┋* *ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
-*┋* *ᴏᴡɴᴇʀ ɪs : JEEPERS CREEPER*
-*┋* *ᴘʟᴜɢɪɴs ᴄᴍᴅ :* ${cm.length}
-╰───────────⊷\n`;
+╭──────^^^^^^^^^^^^^^^^^^^^^^─────⊷°°°°°°°°°]
+*┋* *BOT NAME :  🍷 JEEPERS CREEPER-XMD🍷*
+*┋* *PREFIX.  :* [ ${s.PREFIXE} ]
+*┋* *MODE     :* ${mode}
+*┋* *DATE.    :* ${date}
+*┋* *MADE IN  :KENYA/ELDORET 
+*┋* *PLATFORM :* ${os.platform()}
+*┋* *BOT OWNER:*JEEPERS CREEPER*
+*┋* *COMMANDS :* ${cm.length}
+*┋* *RAM.     :*Toxic storage
+*┋* *REMEMBER TO STAR ✨ & FORK:REPO
+╰──────^^^^^^^^^^^^^^^^^^^^^─────⊷°°°°°°°°°°]\n`;
     
     let menuMsg = ` *${greeting}*`;
     
     for (const cat in coms) {
         menuMsg += `
 *「 ${toFancyUppercaseFont(cat)} 」*
-╭───┈┈┈┈────⊷ `;
+╭───┈┈xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx┈┈────⊷ `;
         for (const cmd of coms[cat]) {
             menuMsg += `          
 *┋* ${toFancyLowercaseFont(cmd)}`;   
         }
         menuMsg += `
-╰───┈┈┈┈────⊷`;
+╰───┈┈xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx┈┈────⊷`;
     }
     
     menuMsg += `
-> @made by toxic lover 2025\n`;
+> @made by toxic lover-tech the best developer 2025\n`;
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/ho8d5w.jpg" },
+            image: { url: "https://files.catbox.moe/fmbr08.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
@@ -100,7 +102,7 @@ ezra({
                 externalAdReply: {
                     title: "🍷JEEPERS CREEPER-XMD🍷",
                     body: "🔑🗝️ Command List",
-                    thumbnailUrl: "https://files.catbox.moe/o8b33m.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/ydluof.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
                     renderLargerThumbnail: true
