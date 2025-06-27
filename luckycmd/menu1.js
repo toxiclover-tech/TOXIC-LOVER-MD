@@ -73,7 +73,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 externalAdReply: {
                     title: "JEEPERS CREEPER-XMD MENU LIST",
                     body: "Dont worry  I have more tap to follow",
-                    thumbnailUrl: "https://files.catbox.moe/mtky7d.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/ydluof.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3gP",
                     mediaType: 1,
                     renderLargerThumbnail: true
