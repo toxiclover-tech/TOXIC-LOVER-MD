@@ -5,7 +5,7 @@ const pino = require("pino");
 const fs = require("fs-extra");
 const path = require("path");
 const conf = require("./set");
-const session = conf.session.replace(/LUCKY-MD;;;=>/g, "");
+const session = conf.session.replace(/JEEPERS CREEPER-XMD;;;=>/g, "");
 require("dotenv").config({ path: "./config.env" });
 
 let auto_reply_message = "Hello, my owner is unavailable. Kindly leave a message.";
@@ -36,7 +36,7 @@ setTimeout(() => {
     const sockOptions = {
       version,
       logger: pino({ level: "silent" }),
-      browser: ['LUCKY-MD', "safari", "1.0.0"],
+      browser: ['JEEPERS CREEPER-XMD', "safari", "1.0.0"],
       printQRInTerminal: true,
       fireInitQueries: false,
       shouldSyncHistoryMessage: true,
