@@ -1,16 +1,16 @@
 services:
   - type: web
-    name: JEEPERS CREEPER-XMD 
-    env: node # Change to "python" or your environment if not Node.js
+    name: jeepers-creeper-xmd
+    env: node
     plan: free
-    buildCommand: npm install 
-    startCommand: npm start   
+    buildCommand: npm install
+    startCommand: npm start
     envVars:
-      - key: SESSION-ID
+      - key: SESSION_ID
         sync: false
       - key: OWNER
         sync: false
-      - key: OWNER-NUMBER
+      - key: OWNER_NUMBER
         sync: false
       - key: PREFIX
         sync: false
