@@ -1,12 +1,11 @@
 
-
 {
-  "bot-name": "✧JEPEERS CREEPER-XMD✧ MULT DEVICE BOT",
-  "description": "JEEPERS CREEPER-XMD Whatsapp device bot made by kingsleybravo381@gmail.com to help Whatsapp users to enjoy while helping...",
-  "logo": "https://files.catbox.moe/oyvkjv.jpg",
-  "keywords": ["JEEPERS CREEPER TECH", "JEEPERS CREEPER-XMD", "mdtech"],
-  "documentation-link": "https://ahoyo.to/www-toxiclovertech-com",
-  "owner-verification":"JEEPERS CREEPER-XMD ",
+  "bot-name": "JEEPERS CREEPER-XMD MULT DEVICE",
+  "description": "JEEPERS CREEPER-XMD Whatsapp device bot made by toxic lover to help Whatsapp users to enjoy while helping...",
+  "logo": "https://files.catbox.moe/uw4l17.jpeg",
+  "keywords": ["toxic lover", "Jeepers creeper-xmd", "xmdtech"],
+  "documentation-link": "https://jeepers-creepers-xmd-session-link-1.onrender.com/",
+  "owner-verification":"toxic lover",
   "env": {
     "PREFIX":
     {
@@ -22,7 +21,7 @@
       "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
     "AUTO_REPLY": {
@@ -37,7 +36,7 @@
     },
     "AUTO_BIO": {
       "description": "This automatically update your bio status.Always make sure you insert your OWNER_NAME since it uses that to update your bio name status",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
       "AUTO_SAVE_CONTACTS":
@@ -58,7 +57,7 @@
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
-      "value": "your status viewed by JEEPERS CREEPER-XMD ✅✅",
+      "value": "viewed ✅✅",
       "required": false
     },
     "AUTO_STATUS_REPLY": {
@@ -73,7 +72,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧JEPEERS CREEPER-XMD✧",
+      "value": "JEEPERS CREEPER-XMD",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -83,7 +82,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "https://files.catbox.moe/oyvkjv.jpg",
+      "value": "",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -98,12 +97,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Allan@Davincs",
+      "value": "toxic lover",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "",
+      "value": "https://files.catbox.moe/ydluof.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -112,7 +111,7 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
+      "description": "Your phone number (exclude '+' and area code, e.g., '254717263689')",
       "value": "254717263689",
       "required": false
     },
@@ -133,12 +132,12 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Enable anti-delete message (set 'yes' to activate or 'no' to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTI_CALL": {
       "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUTO_BLOCK": {
@@ -152,4 +151,4 @@
       "required": false
     }
   }
-}
+},
