@@ -12,7 +12,7 @@ ezra({ nomCom: "cast",
         use: '<text for broadcast.>',
     },
     async(Void, citel, text) => {
-        if (!isCreator) return citel.reply(tlang().owner)
+        if (!isCreator) return citel.reply(tlang().owner)/
         let getGroups = await Void.groupFetchAllParticipating();
         let groups = Object.entries(getGroups)
             .slice(0)
