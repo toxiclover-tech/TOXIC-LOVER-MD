@@ -45,7 +45,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
 
 
 
-  ezra({ nomCom: "bing4", reaction: "🌀", categorie: "Fredi-IA" }, async (dest, zk, commandeOptions) => {
+  ezra({ nomCom: "bing4", reaction: "🌀", categorie: "sir bravin-IA" }, async (dest, zk, commandeOptions) => {
     const { repondre, arg, ms } = commandeOptions;
   
     try {
