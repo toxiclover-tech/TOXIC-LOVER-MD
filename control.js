@@ -1,11 +1,11 @@
 /*  +++Official frediezra tech info base vision 3.0.0 npm +++ */
-// Facebook @sir bravin
-// Instagram @bravin12
-// Threads @jeepers creeper-xmd
+// Facebook @sir-bravin
+// Instagram @bravin
+// Threads @jeepers-creeper-xmd
 // X (tweeter) @jeepers creeper-xmd
-// LinkedIn @jeeper creeper-xmd
+// LinkedIn @jeeper-creeper-xmd
 // YouTube @alonetech
-// github @Fred1e, @mr-X-force, @devfreetec
+// github @toxiclover-tech
 // WhatsApp @254717263689
 // telegram t.me/jeeper creeper-xmd
 // WhatsApp channel 
