@@ -150,7 +150,6 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
 ┣◆ *ᴛᴏᴛᴀʟ ᴜsᴇʀs:* ${formattedTotalUsers} users
 ┣◆ *ʀᴀᴍ:* ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┣◆ *ᴜᴘᴛɪᴍᴇ:* ${formatUptime(process.uptime())}
-┣◆ *CHANNEL:*  https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 ╰═══┈⊷
 
 *${randomQuote}*
