@@ -66,7 +66,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 
 try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/uw4l17.jpeg" },
+            image: { url: "https://files.catbox.moe/1mwvd5.jpg" },
             caption: responseMessage + commandsList,
             contextInfo: {
                 isForwarded: true,
@@ -79,7 +79,7 @@ try {
                 externalAdReply: {
                     title: "😈JEEPERS CREEPER-XMD 😈",
                     body: "🧃Command List",
-                    thumbnailUrl: "https://files.catbox.moe/yd282d.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/1mwvd5.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
                     renderLargerThumbnail: true
