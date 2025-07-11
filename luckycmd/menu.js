@@ -26,7 +26,7 @@ const toFancyLowercaseFont = (text) => {
 
 ezra({ 
     nomCom: "menu", 
-    categorie: "Fredi-Menu", 
+    categorie: "@sir bravin-Menu", 
     reaction: "☢️", 
     nomFichier: __filename 
 }, async (dest, zk, commandeOptions) => {
@@ -44,7 +44,7 @@ ezra({
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault("Africa/Dar_Es_Salam");
+    moment.tz.setDefault("Africa/nairobi");
     const hour = moment().hour();
     let greeting = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ";
     if (hour >= 12 && hour < 18) greeting = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ!";
