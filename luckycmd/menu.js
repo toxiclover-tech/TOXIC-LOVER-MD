@@ -26,7 +26,7 @@ const toFancyLowercaseFont = (text) => {
 
 ezra({ 
     nomCom: "menu", 
-    categorie: "bravo-Menu", 
+    categorie: "Fredi-Menu", 
     reaction: "☢️", 
     nomFichier: __filename 
 }, async (dest, zk, commandeOptions) => {
@@ -44,7 +44,7 @@ ezra({
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault("Africa/Nairobi");
+    moment.tz.setDefault("Africa/Dar_Es_Salam");
     const hour = moment().hour();
     let greeting = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ";
     if (hour >= 12 && hour < 18) greeting = "ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ!";
@@ -53,18 +53,19 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/cfeg9x.jpg';
-    const imgs = 'https://files.catbox.moe/cfeg9x.jpg';
+    const img = 'https://files.catbox.moe/m6a7g1.jpg';
+    const imgs = 'https://files.catbox.moe/m6a7g1.jpg';
 
     const infoMsg = `
 ╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  ☢️JEEPERS CREEPER-XMD☢️*
+*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  ☢️ JEEPER CREEPER-XMD ☢️*
 *┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
-*┋* *ᴍᴏᴅᴇ :* ${mode
+*┋* *ᴍᴏᴅᴇ :* ${mode}
 *┋* *ᴅᴀᴛᴇ  :* ${date}
 *┋* *ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
-*┋* *ᴏᴡɴᴇʀ ɪs : SIR BRAVIN*
+*┋* *ᴏᴡɴᴇʀ ɪs : @sir bravin*
 *┋* *ᴘʟᴜɢɪɴs ᴄᴍᴅ :* ${cm.length}
+*┋* made in kenya Eldoret 
 ╰───────────⊷\n`;
     
     let menuMsg = ` *${greeting}*`;
@@ -82,24 +83,24 @@ ezra({
     }
     
     menuMsg += `
-> @made by sir bravin 2025\n`;
+> @made by FredieTech 2025\n`;
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/cfeg9x.jpg" },
+            image: { url: "https://files.catbox.moe/m6a7g1.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363366284524544@newsletter",
+                    newsletterJid: "120363313124070136@newsletter",
                     newsletterName: "@sir bravin",
                     serverMessageId: -1
                 },
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: "☢️ JEEPERS CREEPER-XMD☢️",
+                    title: "☢️ JEEPERS CREEPER-XMD ☢️",
                     body: "🔑🗝️ Command List",
-                    thumbnailUrl: "https://files.catbox.moe/cfeg9x.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/m6a7g1.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
                     renderLargerThumbnail: true
